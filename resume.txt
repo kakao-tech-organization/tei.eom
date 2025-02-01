@@ -1,3 +1,0 @@
-자격증 : ADsP
-대외활동 : BDA 9기, 교내 Ai 공모전, 외부 빅데이터 공모전
-사용기술 : Flask, Spring Boot
